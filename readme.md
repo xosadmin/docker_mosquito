@@ -1,4 +1,4 @@
-# docker_mosquiti
+# docker_mosquito
 A docker container to run MQTT
   
 ### How to build own image based on this repo
